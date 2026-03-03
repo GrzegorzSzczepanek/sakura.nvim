@@ -10,6 +10,8 @@ A clean, aesthetic Neovim colorscheme inspired by the soft gradients of cherry b
 * **Lightweight:** Pure Lua implementation with no heavy dependencies.
 
 ## 📸 Screenshots
+![telegram-cloud-photo-size-4-5852694777294425515-y](https://github.com/user-attachments/assets/58f69802-e441-4072-9112-6bd5393eadc4)
+![telegram-cloud-photo-size-4-5852694777294425514-y](https://github.com/user-attachments/assets/410e7b02-ebde-4683-9c80-703c36fdcafe)
 
 ## 🎨 Palette
 
