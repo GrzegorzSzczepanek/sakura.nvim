@@ -31,7 +31,7 @@ Install via your favorite plugin manager.
 
 ```lua
 {
-    "your-username/sakura.nvim",
+    "GrzegorzSzczepanek/sakura.nvim",
     lazy = false,
     priority = 1000,
     config = function()
